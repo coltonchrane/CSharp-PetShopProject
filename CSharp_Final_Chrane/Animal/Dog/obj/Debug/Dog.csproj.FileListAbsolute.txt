@@ -1,0 +1,11 @@
+C:\Users\colto\source\repos\Animal\Dog\obj\Debug\Dog.csprojAssemblyReference.cache
+C:\Users\colto\source\repos\Animal\Dog\obj\Debug\Dog.csproj.CoreCompileInputs.cache
+C:\Users\colto\source\repos\Animal\Dog\bin\Debug\Dog.dll
+C:\Users\colto\source\repos\Animal\Dog\bin\Debug\Dog.pdb
+C:\Users\colto\source\repos\Animal\Dog\bin\Debug\Animal.dll
+C:\Users\colto\source\repos\Animal\Dog\bin\Debug\IPet.dll
+C:\Users\colto\source\repos\Animal\Dog\bin\Debug\Animal.pdb
+C:\Users\colto\source\repos\Animal\Dog\bin\Debug\IPet.pdb
+C:\Users\colto\source\repos\Animal\Dog\obj\Debug\Dog.csproj.CopyComplete
+C:\Users\colto\source\repos\Animal\Dog\obj\Debug\Dog.dll
+C:\Users\colto\source\repos\Animal\Dog\obj\Debug\Dog.pdb

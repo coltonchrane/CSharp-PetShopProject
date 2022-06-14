@@ -1,0 +1,6 @@
+C:\Users\colto\source\repos\Animal\IPet\bin\Debug\IPet.dll
+C:\Users\colto\source\repos\Animal\IPet\bin\Debug\IPet.pdb
+C:\Users\colto\source\repos\Animal\IPet\obj\Debug\IPet.csprojAssemblyReference.cache
+C:\Users\colto\source\repos\Animal\IPet\obj\Debug\IPet.csproj.CoreCompileInputs.cache
+C:\Users\colto\source\repos\Animal\IPet\obj\Debug\IPet.dll
+C:\Users\colto\source\repos\Animal\IPet\obj\Debug\IPet.pdb

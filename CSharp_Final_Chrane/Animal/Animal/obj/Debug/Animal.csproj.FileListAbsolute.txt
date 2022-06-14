@@ -1,0 +1,6 @@
+C:\Users\colto\source\repos\Animal\Animal\bin\Debug\Animal.dll
+C:\Users\colto\source\repos\Animal\Animal\bin\Debug\Animal.pdb
+C:\Users\colto\source\repos\Animal\Animal\obj\Debug\Animal.csprojAssemblyReference.cache
+C:\Users\colto\source\repos\Animal\Animal\obj\Debug\Animal.csproj.CoreCompileInputs.cache
+C:\Users\colto\source\repos\Animal\Animal\obj\Debug\Animal.dll
+C:\Users\colto\source\repos\Animal\Animal\obj\Debug\Animal.pdb
